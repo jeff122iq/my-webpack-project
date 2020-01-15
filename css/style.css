@@ -1,14 +1,11 @@
 @import "../css/reset.css";
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-
+    font-family: "Raleway", sans-serif;
 }
+
 .pageHeader{
     background-image: url("../image/banner.jpg");
-    width: 1600px;
+    width: 100%;
     height: 750px;
     text-align: center;
 }
@@ -60,11 +57,10 @@ body{
     font-weight: 300;
     line-height: 1.5;
     margin-top: 20px;
-    font-family: Arial;
+
 
 }
 .redBottom1{
-    font-family: Arial;
     margin-top: 80px;
     margin-left: 43%;
     background-color: red;
@@ -81,25 +77,24 @@ ___________________________________________________
  */
 .feauturesContainer{
     display: flex;
-    /*flex-wrap: wrap;*/
+    flex-wrap: wrap;
     justify-content: center;
 }
 /*
 ___________________________________________________
  */
 .feauturesItemContainer{
-    margin-right: 50px;
     text-align: center;
-    margin-top: 100px;
     width: 33.333%;
     padding: 30px
+    margin: 10px 100px;
 }
 .feauturesItemContainer > h6{
     font-size: 14px;
     color: #2d3033;
     text-transform: uppercase;
     font-weight: 700;
-    font-family: Arial;
+
 }
 .feauturesItemContainer > p{
     font-size: 14px;
