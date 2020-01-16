@@ -147,8 +147,9 @@ _____________________________________________________________
 
 }
 
-.workContainer img:hover{
+.workContainer:hover img{
     background-color: red;
+
 }
 
 
