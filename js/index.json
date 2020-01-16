@@ -1,0 +1,22 @@
+
+[
+  {
+    "icon": "https://pixelbuddha.net/livepreview/activebox/images/team-1.jpg",
+    "fullName": "Ruth Wood",
+    "position": "FOUNDER, CEO"
+  },
+  {
+    "icon": "https://pixelbuddha.net/livepreview/activebox/images/team-2.jpg",
+    "fullName": "Timothy Reed",
+    "position": "CO-FOUNDER, DEVELOPER"
+  },{
+  "icon": "https://pixelbuddha.net/livepreview/activebox/images/team-3.jpg",
+  "fullName": "UI DESIGNER",
+  "position": "FOUNDER, CEO"
+},{
+  "icon": "https://pixelbuddha.net/livepreview/activebox/images/team-4.jpg",
+  "fullName": "Beverly Little",
+  "position": "DATA SCIENTIST"
+}
+]
+
